@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "default": "Data Source=.\\SQLEXPRESS;Initial Catalog=DemoDb;Integrated Security=True"
+    }
+}
